@@ -9,7 +9,7 @@ import java.nio.ByteBuffer;
 
 /**
  * An example of client-side application using UDP
- * @author emalianakasmuri
+ * @author norbalqish
  *
  */
 
